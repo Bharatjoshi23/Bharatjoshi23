@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Hi, I am Bharat Joshi, Web-Dev enthusiast, Senior at Graphic Era Hill University. 
 

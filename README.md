@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Bharatjoshi23/Bharatjoshi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Bharat Joshi, Web-Dev enthusiast, Senior at Graphic Era Hill University. 
 
-Here are some ideas to get you started:
+📍Currently located inHaldwani, Uttarakhand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎮 Currently working on Sign language translater with tensorflow in web development.
+
+
+🌊 Previously worked on Full Stack Projects, Machine Learning projects .
+
+👯 Looking to collaborate on any Web - Development project.
+
+📫 Contact:  [Email,](mailto:brojosh23102001@gmail.com)
+           [Linkedin](https://www.linkedin.com/in/bharatjoshi23/)

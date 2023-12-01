@@ -2,7 +2,7 @@
 
 # Hi, I am Bharat Joshi, Web-Dev enthusiast, Working Professional. 
 
-📍Currently located in Bnaglore, Karnataka.
+📍Currently located in Banglore, Karnataka.
 
 
 🌊 Previously worked on Full Stack Projects, Machine Learning projects .

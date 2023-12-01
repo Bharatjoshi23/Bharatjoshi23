@@ -1,11 +1,8 @@
 
 
-# Hi, I am Bharat Joshi, Web-Dev enthusiast, Senior at Graphic Era Hill University. 
+# Hi, I am Bharat Joshi, Web-Dev enthusiast, Working Professional. 
 
-📍Currently located inHaldwani, Uttarakhand.
-
-
-🎮 Currently working on Sign language translater with tensorflow in web development.
+📍Currently located in Bnaglore, Karnataka.
 
 
 🌊 Previously worked on Full Stack Projects, Machine Learning projects .
